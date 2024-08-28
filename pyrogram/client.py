@@ -184,8 +184,8 @@ class Client(Methods):
             Defaults to 1.
     """
 
-    APP_VERSION = f"TangoUserBot {__version__}"
-    DEVICE_MODEL = f"TangoPhoNe"
+    APP_VERSION = f"NyxianNetwork{__version__}"
+    DEVICE_MODEL = f"NyxianV.1"
     SYSTEM_VERSION = f"Ubuntu 22.0.4"
 
     LANG_CODE = "en"
